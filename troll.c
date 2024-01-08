@@ -23,7 +23,7 @@ int main(){
 	}else{flt=n+l;
 	}
 	
-	printf("\n%f",flt);
+	printf("\n%2f",flt);
 	
 
 }
